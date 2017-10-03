@@ -1,0 +1,19 @@
+.navbar{
+	background-color: #542f76 !important; 
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.my_arabic{
+	font-family:'Droid Arabic Kufi';
+}
+.my_btn{
+	background-color:#805997 !important;
+	
+}
+
+.material-icons.md-18 { font-size: 18px !important; }
+.material-icons.md-24 { font-size: 24px !important; }
+.material-icons.md-36 { font-size: 36px !important; }
+.material-icons.md-48 { font-size: 48px !important; }
